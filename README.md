@@ -26,3 +26,5 @@ After installation, create new AzuraCast accounts/stations and upload your media
 - Docker-based application dependencies and portable installation scripts.
 
 See `HITPRO-AzuraCast-Portable-2026-11-15.zip` for the complete code and `README-HT.md` inside it for details.
+
+- Copyable HLS .m3u8 playlist/live stream URLs on each TV channel page.
